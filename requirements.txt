@@ -1,0 +1,16 @@
+
+
+numpy: Used for numerical operations
+opencv-python: For image processing (cv2)
+requests: For making HTTP requests
+streamlit: For creating the web application interface
+
+
+
+requirements.txt for PyraDox
+
+numpy
+opencv-python
+requests
+streamlit
+Pillow

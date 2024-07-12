@@ -48,4 +48,4 @@ reach out at [Email](utsav.iitkgp@gmail.com) :innocent:
 
 If this project was helpful for you please show some love :star:
 
- 
+P.S. **Streamlit** is :heart:
